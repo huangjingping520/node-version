@@ -2,7 +2,7 @@
   "publisher": "MerlinAlex",
   "name": "node-version",
   "displayName": "node-version",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.1.1",
   "description": "",
